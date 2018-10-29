@@ -42,7 +42,7 @@ def IoU(one, two):
 
 
 def normalizeImgs(imgs):
-    '''Divides be 255.
+    '''Subtracts mean and then divides by standard distribution.
     Args:
         imgs: List of images.
     Returns:
