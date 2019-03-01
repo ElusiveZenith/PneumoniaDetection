@@ -1,3 +1,5 @@
+Notice: Config and weights files were too big to upload to GitHub, so all needed files to run are not present.
+
 Object detection is one of my interests in machine learning. I used this pneumonia detection challenge as an opportunity to learn object detection.
 
 I found a pneumonia detection challenge hosted on Kaggle.com. (https://www.kaggle.com/c/rsna-pneumonia-detection-challenge) A stat they was listed on the competition’s page that motivated me to attempt the challenge was that internationally 15% of all deaths of children under the age of 5, is caused by pneumonia.
